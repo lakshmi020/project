@@ -1,0 +1,6 @@
+{
+  "name": "Purplle Beauty - Makeup, Skincare & Fragrance Store",
+  "description": "Discover India's favorite online beauty destination. Shop trending makeup, skincare, haircare, and fragrances with personalized beauty routines, shade swatches, and exclusive offers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
